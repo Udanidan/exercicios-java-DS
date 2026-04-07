@@ -5,7 +5,7 @@ public class ex10 {
         Scanner scan = new Scanner(System.in);
         
         double m = scan.nextInt()/3.6;
-        System.out.println("convertido para metros: " + m);
+        System.out.println("convertido para metros por segundo: " + m);
 
         scan.close();
     }
